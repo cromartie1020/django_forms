@@ -1,0 +1,11 @@
+env/
+requirements.txt
+db.sqlite3
+*.pyc
+*.log
+*.pot
+media
+.ipynb_checkpoints 
+.vscode/*
+.history
+
